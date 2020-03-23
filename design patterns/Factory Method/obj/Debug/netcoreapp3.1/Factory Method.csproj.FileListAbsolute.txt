@@ -1,0 +1,11 @@
+D:\Git myproject\Design Patterns\design patterns\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.exe
+D:\Git myproject\Design Patterns\design patterns\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.deps.json
+D:\Git myproject\Design Patterns\design patterns\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.runtimeconfig.json
+D:\Git myproject\Design Patterns\design patterns\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.runtimeconfig.dev.json
+D:\Git myproject\Design Patterns\design patterns\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.dll
+D:\Git myproject\Design Patterns\design patterns\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.pdb
+D:\Git myproject\Design Patterns\design patterns\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.csprojAssemblyReference.cache
+D:\Git myproject\Design Patterns\design patterns\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.AssemblyInfoInputs.cache
+D:\Git myproject\Design Patterns\design patterns\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.AssemblyInfo.cs
+D:\Git myproject\Design Patterns\design patterns\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.dll
+D:\Git myproject\Design Patterns\design patterns\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.pdb
