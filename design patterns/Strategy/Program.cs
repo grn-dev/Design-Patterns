@@ -118,13 +118,6 @@ namespace Strategy
             }
         }
 
-<<<<<<< HEAD
-        Rebase test
-=======
 
-        master
-
-
->>>>>>> 6716588... master
     }
 }
