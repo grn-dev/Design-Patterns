@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git myproject\\Design Patterns\\design patterns\\Strategy\\Strategy.csproj": {}
+    "D:\\Git myproject\\Design Patterns\\design patterns\\Bridge\\Bridge.csproj": {}
   },
   "projects": {
-    "D:\\Git myproject\\Design Patterns\\design patterns\\Strategy\\Strategy.csproj": {
+    "D:\\Git myproject\\Design Patterns\\design patterns\\Bridge\\Bridge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git myproject\\Design Patterns\\design patterns\\Strategy\\Strategy.csproj",
-        "projectName": "Strategy",
-        "projectPath": "D:\\Git myproject\\Design Patterns\\design patterns\\Strategy\\Strategy.csproj",
+        "projectUniqueName": "D:\\Git myproject\\Design Patterns\\design patterns\\Bridge\\Bridge.csproj",
+        "projectName": "Bridge",
+        "projectPath": "D:\\Git myproject\\Design Patterns\\design patterns\\Bridge\\Bridge.csproj",
         "packagesPath": "C:\\Users\\Sabzali\\.nuget\\packages\\",
-        "outputPath": "D:\\Git myproject\\Design Patterns\\design patterns\\Strategy\\obj\\",
+        "outputPath": "D:\\Git myproject\\Design Patterns\\design patterns\\Bridge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

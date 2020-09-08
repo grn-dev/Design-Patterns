@@ -9,3 +9,5 @@ D:\Git myproject\Design Patterns\design patterns\Strategy\obj\Debug\netcoreapp3.
 D:\Git myproject\Design Patterns\design patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
 D:\Git myproject\Design Patterns\design patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
 D:\Git myproject\Design Patterns\design patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+D:\Git myproject\Design Patterns\design patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+D:\Git myproject\Design Patterns\design patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache

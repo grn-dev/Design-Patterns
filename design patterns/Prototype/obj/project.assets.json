@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git myproject\\Design Patterns\\design patterns\\Factory Method\\Factory Method.csproj",
-      "projectName": "Factory Method",
-      "projectPath": "D:\\Git myproject\\Design Patterns\\design patterns\\Factory Method\\Factory Method.csproj",
+      "projectUniqueName": "D:\\Git myproject\\Design Patterns\\design patterns\\Prototype\\Prototype.csproj",
+      "projectName": "Prototype",
+      "projectPath": "D:\\Git myproject\\Design Patterns\\design patterns\\Prototype\\Prototype.csproj",
       "packagesPath": "C:\\Users\\Sabzali\\.nuget\\packages\\",
-      "outputPath": "D:\\Git myproject\\Design Patterns\\design patterns\\Factory Method\\obj\\",
+      "outputPath": "D:\\Git myproject\\Design Patterns\\design patterns\\Prototype\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
